@@ -4,14 +4,14 @@
 
 It only works on Windows OS
 
-**Feature**
+**Feature**:
+
 Quick launch (with one click on the map) of programs from the list:
 - Winbox
 - Putty
 - VNC
 - RDP
 - WinMTR
-
 
 
 ## Guide
