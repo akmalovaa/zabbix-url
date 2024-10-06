@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "zurl"
+version = "0.1.0"
+description = "zabbix url to open other app"
+authors = ["Artur Akmalov <artur@akmalov.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
